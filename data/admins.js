@@ -1,1 +1,1 @@
-admins = ["sims1253", "jayvdb", "sils", "fneu"]
+admins = ["CrazyByDefault", "Siddhartha1234", "Gouthamve"]

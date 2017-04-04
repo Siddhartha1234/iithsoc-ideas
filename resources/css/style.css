@@ -37,6 +37,9 @@
   margin-left: 3em;
   margin-right: 3em;
 }
+
+
+
 .title{
   font-family: -apple-system, BlinkMacSystemFont, Roboto, sans-serif;
   font-size: 14em;
@@ -68,6 +71,11 @@
   font-weight: 300;
   text-transform: none !important;
 }
+
+.description a{
+  color: #8e44ad;
+}
+
 pre{
   padding: 0px;
 }
