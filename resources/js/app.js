@@ -207,4 +207,16 @@
 		}
 	}]);
 
+	app.directive('rules',[ '$http', function ($http) {
+		return {
+			restrict: 'E',
+			templateUrl: 'partials/tabs/rules.html',
+			controller: function () {
+				self = this
+				self.faqs = faq
+			},
+			controllerAs: 'toc'
+		}
+	}]);
+
 })();

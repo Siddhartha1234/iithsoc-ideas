@@ -259,7 +259,10 @@ a:hover > .card{
   color: #fff;
 }
 .dashboard{
-  background-color: darkslategrey;
+  background-color: whitesmoke;
+}
+.section{
+  padding: 3vw;
 }
 .modal-content-bear{
   display: flex
@@ -274,7 +277,7 @@ a:hover > .card{
   overflow-wrap: break-word;
 }
 .project-description{
-  color: lightgrey;
+  color: black;
   text-align: justify;
   font-size: 1.1em;
   font-family: Roboto;
@@ -304,7 +307,7 @@ a:hover > .card{
   font-size: 0.9em;
   padding: 0.5em;
   font-weight: 400;
-  color: lightgoldenrodyellow;
+  color: #9b59b6;
   letter-spacing: 0.1em;
 }
 .authors{

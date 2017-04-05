@@ -58,7 +58,7 @@ of code, api and ui changes.
 Other Commitments
 -----------------
 
-- Do you have any other commitments during the GSoC period,
+- Do you have any other commitments during the &lambda; SoC period,
   May 8th to August 29th?
 
     - We don't penalize students for needing adjustments to schedule if
