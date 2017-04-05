@@ -4,6 +4,10 @@
 	app.config(['$routeProvider',
 		function($routeProvider) {
 			$routeProvider.
+			when('/welcome', {
+				template: '<welcome></welcome>',
+				reloadOnSearch: false
+			}).
 			when('/projects', {
 				template: '<projects></projects>',
 				reloadOnSearch: false
@@ -15,7 +19,7 @@
 				template: '<faq></faq>'
 			}).
 			otherwise({
-				redirectTo: '/projects'
+				redirectTo: '/welcome'
             		});
 		}]);
 	app.controller('TabController', function ($location) {
@@ -28,6 +32,18 @@
 			return $location.path() == stab
 		}
 	})
+
+	app.directive('welcome',[ '$http', function ($http) {
+		return {
+			restrict: 'E',
+			templateUrl: 'partials/tabs/welcome.html',
+			controller: function () {
+				self = this
+				self.faqs = faq
+			},
+			controllerAs: 'toc'
+		}
+	}]);
 
 	app.directive('projects',  ['$http',  '$timeout', '$location', function ($http, $timeout, $location) {
 		return {

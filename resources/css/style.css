@@ -32,7 +32,7 @@
   position: absolute;
   bottom: 0;
   height: 2px;
-  background-color: black !important;
+  background-color: #8e44ad !important;
   will-change: left, right;
   margin-left: 3em;
   margin-right: 3em;
@@ -440,7 +440,7 @@ input:not([type]), input[type=text], input[type=password], input[type=email], in
 .modal{
   top: 5% !important;
 }
-.tabs .col-md-4{
+.tabs .col-md-3{
   position: initial !important;
 }
 @media only screen and (max-width: 500px) {
