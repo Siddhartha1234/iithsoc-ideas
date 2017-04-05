@@ -1,2 +1,1 @@
-Superb! We recommend you submit your idea to [our projects list](https://github.com/coala/projects/blob/master/data/projects.js)
-as a pull request.
+Superb! We recommend you open a pull request and submit your idea to [our projects page.](https://github.com/CrazyByDefault/iithsoc-ideas/blob/master/data/projects.js)

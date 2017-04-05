@@ -1,0 +1,1 @@
+We highly encourage anyone interested in open source developement to apply. That being said, this program is geared towards the first and second year students of IITH.

@@ -18,6 +18,9 @@
 			when('/faq', {
 				template: '<faq></faq>'
 			}).
+			when('/rules', {
+				template: '<rules></rules>'
+			}).
 			otherwise({
 				redirectTo: '/welcome'
             		});

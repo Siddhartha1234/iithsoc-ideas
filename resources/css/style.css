@@ -38,7 +38,9 @@
   margin-right: 3em;
 }
 
-
+.text-center{
+  text-align: center;
+}
 
 .title{
   font-family: -apple-system, BlinkMacSystemFont, Roboto, sans-serif;
@@ -52,6 +54,13 @@
   font-weight: 100;
   text-align: center;
 }
+.subtitle{
+  font-family: -apple-system, BlinkMacSystemFont, Roboto, sans-serif;
+  font-size: 2.6em;
+  font-weight: 100;
+  text-align: center;
+}
+
 .main-content{
   margin-top: 2em;
 }
@@ -440,7 +449,7 @@ input:not([type]), input[type=text], input[type=password], input[type=email], in
 .modal{
   top: 5% !important;
 }
-.tabs .col-md-3{
+.tabs .col-md-2{
   position: initial !important;
 }
 @media only screen and (max-width: 500px) {

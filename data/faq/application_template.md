@@ -1,4 +1,4 @@
-coala 2017 Application Template
+&lambda; SoC 2017 Application Template
 ===============================
 
 ```
@@ -6,44 +6,30 @@ Student Info
 ------------
 
 - Name:
+- IITH Email ID:
 - GitHub username:
-- Alternative-/Nickname:
-- Email:
-- Which country will you reside in during the project?
+- Alternative/Nickname:
 - Which city, region or other geographical boundary?
   (if you feel comfortable sharing this):
-- Which city (or other geographical boundary you feel comfortable sharing)?
-- Time Zone:
-- GSoC blog RSS feed URL: (You will have to write a blog post every
-  week during GSoC.)
 
 
 Code Sample
 -----------
-
-Link all your contributions to coala and any other open source project here.
-For example, to list your contributions to coala you can mention:
-
-- https://github.com/coala/coala/commits/master?author=YOUR_USER_NAME
-  for coala repo
-- https://github.com/coala/coala-bears/commits/master?author=YOUR_USER_NAME
-  for coala-bears repo
+Link all your contributions to any open source project here.
 
 You may also mention specific issues/commits using the commit id if you want
 us to take a look at that.
 
-You will have to finish the coala newcomer guide to be accepted:
-http://coala.io/newcomer
-
+NOTE: This is not necessary. People without previous open source experience are welcome.
 
 Project Info
 ------------
 
-- Which project from http://projects.coala.io are you applying for?
+- Which project are you applying for?
   If you have your own idea, please add it to our projects list:
-  https://github.com/coala/projects/blob/master/data/projects.js
+  https://github.com/CrazyByDefault/iithsoc-ideas/blob/master/data/projects.js
 
-- How is your project helping coala and its community?
+- How is your project helping IITH and its community?
 
 - What is the final goal for this project? What would make it a total
   and perfect success?
@@ -54,8 +40,7 @@ Project Info
   be the first listed mentor as primary and another as secondary.
   All projects will have a primary and a secondary mentor.
 
-- What parts of coala do you have to work with in order to complete
-  this project? What else are you planning on using?
+- What are you planning on using to accomplish this project?
 
 - Why are you the right person to work on this project?
 
@@ -85,7 +70,7 @@ Other Commitments
 
     - Do you have plans to have any other job or internship during this
       period?
-        - This is __NOT RECOMMENDED AT ALL__ as GSoC is intended to be a
+        - This is NOT RECOMMENDED as &lambda; SoC is intended to be a
           full time job. But can be worked around if it only a small overlap.
 
     - Do you have any other short term commitments during this period?
@@ -97,31 +82,5 @@ Other Commitments
   org decides they wish to accept your proposal.)
 
 
-Extra Information
------------------
-
-This additional information isn't needed by coala but can help us to learn
-more about you. All fields in this section are optional.
-
-- Link to openhub account:
-- University info
-    - University name:
-    - Major:
-    - Current year and expected graduation date:
-    - Degree:
-- Other Contact info:
-    - Alternate contact info in case primary mail above stops working:
-    - Homepage:
-    - Instant messaging:
-
-- Will you be able to join us for a conference such as EuroPython or GUADEC
-  and present your work if at least partial sponsorship will be provided?
-  (See https://github.com/coala/coala/wiki/Conferences-Upcoming)
-
-- We love having twitter handles so we can tell people publicly about your
-  great project and successes at https://twitter.com/coala_io!
-  (Not required but recommended.)
-
-- Anything else you want us to know:
 
 ```
